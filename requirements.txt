@@ -1,0 +1,6 @@
+pytest==7.4.0
+pytest-html-reporter==0.2.9
+natsort==8.4.0
+PyPDF2==3.0.1
+openpyxl==3.1.2
+requests==2.31.0

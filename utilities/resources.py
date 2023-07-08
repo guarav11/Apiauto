@@ -1,0 +1,16 @@
+
+class ApiResources:
+    list_users = '/api/users?page=2'
+    list_single_user = '/api/users/2'
+    user_not_found = '/api/users/23'
+    list_resource = '/api/unknown'
+    list_single_resource = '/api/unknown/2'
+    single_resource_not_found = '/api/unknown/23'
+    create_user_post = '/api/users'
+    update_user_put = '/api/users/2'
+    update_user_patch = '/api/users/2'
+    delete_user = '/api/users/2'
+    register_user = '/api/register'
+    register_unsuccessful = '/api/register'
+    login = '/api/login'
+    delay_response = '/api/users?delay=3'
