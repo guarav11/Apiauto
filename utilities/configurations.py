@@ -10,7 +10,7 @@ def Config():
 
 
 # def getPassword():
-#     return '120120gG&'
+#     return '111'
 #
 #
 #
